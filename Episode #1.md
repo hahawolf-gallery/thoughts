@@ -1,0 +1,94 @@
+- Title
+    - TBD
+- Intro
+    - Sports ads are dominated by crypto banks and news headlines focus on scams, environmental concerns, and people losing their life savings or getting rich overnight, it's not surprising that many people I talk to today are skeptical, uninterested, or even outspoken critics of blockchains.  
+    - But if you look below the surface, there is a revolution underway worth paying attention to.  
+    - But being a critic is one of the easiest ways to sound smart, creating or building something new that has a lasting impact on the world is much harder.    
+    - Peter Theil has a great interview question, which is "What important truth do very few people agree with you on?"  __I love this question because it's hard, it reveals that most of our beliefs conveniently align with popular opinion.  It also reveals if the candidate can 1) thinks differently; 2) is open-minded, and 3) is brave enough to discuss unpopular opinions. __ - REMOVE?
+    - My response to this question today would be something along the lines of 
+        - The internet is one of humanity's greatest technological achievements, and I believe blockchain technology provides the rails for an internet of value revolution that will eventually disrupt and reshape the world more dramatically than the original internet itself.  The fundamental value proposition of blockchains is internet native scarcity.  It's difficult to fully conceptualize and communicate the scope of what this potentially unlocks, but it may well eventually reorder the entire world financial and banking system, nation state governance, taxation, social coordination, financial coordination / corporations, commerce, sports, and entertainment, to give a few examples.  
+        - Why do I believe this? 
+            - Scarcity enables value.  Blockchains are a fundamentally new kind of computer, because they can provide credibly neutral scarcity as well as make commitments.   
+            - Ok, maybe I sound like a tin hat psychopath.  I could be dead wrong, 
+- Blockchain overview
+    - If you already understand first principles of blockchain please feel free to skip ahead, this is meant to an "explain it to me like i'm five" overview of crypto works.
+    - Decentralized Ledgers
+        - blockchains such as bitcoin, are basically an accounting ledger, in the same way your checkbook is an accounting ledger of debts and credits.  What makes this blockchain ledger different than the one with your Wells Fargo account, is a blockchain ledger is distributed across thousands of computers across the world, there is no central authority, it doesn't require trust, and if properly decentralized, it is a digital organism that cannot be turned off, in the same way nobody can turn off the internet today.  
+    - Consensus
+        - Blockchains achieves this decentralization through a distributed consensus mechanism.  The distributed consensus is the core piece of innovation that blockchains provide, and while it can be technically complex, it also can also be simplified. 
+        - I will focus on proof of stake form of consensus used by Ethereum since that is the environmentally friendly option today and in my opinion also the most capital efficient.
+        - Imagine a group of people sitting around a table, each with 10 poker chips.  At the beginning of a block, or round, if a person wants to help validate the transactions at the table, they push 3 chips into the center, and are called a validator.  All these validators then watch as all folks around the table engage in commerce, trading chips for goods and services, etc... after a set number of trades, they reach the end of the block, or round, and all of the validators that have been watching the commerce report on their observations.  Jane sent Bob 2 chips, Bob sent Maurice 1 chip etc...  If a validator reports transactions that are consistent with more than half the other validators, they earn an extra chip as payment for their services of validating the transactions.  if their report of the transactions conflicts with most of the validators, they lose the 3 chips they put in.
+        - Basically, the validators are all financially incentivized to tell the truth, they are rewarded for being honest, and punished for being dishonest. 
+        - In this group at a table analogy, it is easy to imagine collusion, where a few folks get together and and lie about the transactions.  This is called a 51% attack, where a single group or individual owns and controls 51% of the validators.  But at scale, in a properly decentralized system with thousands of validators, where each validator needs substantial capital to participate, it becomes technically possible but practically unlikely for this to occur.  There is also social coordination level defense against this type of attack that we don't need to get into here.  
+    - Trustless credible neutrality
+        - Assuming a blockchain is sufficiently decentralized, it can be considered trustless and credibly neutral.
+        - In other words, people across the world can agree on very little, but nobody will argue with the amount of ether in a Ethereum wallet.  There are no differences of opinion, because the blockchain doesn't take sides and isn't susceptible to manipulation and corruption in the same way centralized authority is.  Over a trillion dollars of value is currently wrapped up on these decentralized ledgers,
+    - Chris Dixon likes to describe blockchains as a new type of computer that can make commitments, because it provides the ability to deploy software that will continue to run as designed without external dependencies.
+    - What makes     
+- Frontier
+    - There was a time when the frontier was the wild west, there was a time when it was conquistadors and people setting sail in the age of sail.   
+    - In my opinion, the frontier today isn't in physical meatspace, it's not the sea, or the desert, or even outer space, the frontier is in digital space. And no, I'm not talking about Zuckerbergs metaverse. 
+    - To quote Naval, the digital frontier is within web3 and crypto because it is the least regulated, most decentralized, most permissionless, 24x7x365 markets that are self funding.  Anyone in the world with an internet connection can participate, no credentials required.  
+    - One of the signals that you are on the frontier, is if things dangerous.  Like the wild west in America or vast oceans during the age of sail, in crypto and web3 there is danger everywhere.  Between scams, hacks, accidental losses, clunky and confusing UI, highly volatile assets, lack of regulatory clarity and regulation by enforcement, there is plenty to be scared of.  But with risk comes opportunity, there is no free lunch.  like any investment of capital, time, or resources, if it was a sure bet, there would be no potential upside.
+    - Many of the overzealous crypto fan boys don't adequately right size the risk, and the timelines.  Get rich quick mentality, instead people should focus on building something useful.
+- Digital Property Rights
+    - Capitalism
+        - If you don't understand how even mother Theresa and Gandhi were self interested, you should read the book Awareness by the Indian Jesuit priest and quasi buddhist, Anthony de Mello. 
+            - He argues there are three types of selfshness:
+                - First, when I do something, or rather, when I give myself the pleasure of pleasing myself; quite unrefined.
+                - second, when I give myself the pleasure of pleasing others. Don’t take pride in that. Don’t think you’re a great person. You’re a very ordinary person, but you’ve got refined tastes. When you were a child, you liked Coca-Cola; now you’ve grown older and you appreciate chilled beer on a hot day. You’ve got better tastes. But you’re getting your pleasure all the same, except now it’s in the pleasure of pleasing others.
+                - Then you’ve got the third type, which is the worst: when you do something good so that you won’t get a bad feeling from not doing it. It doesn’t give you a good feeling to do it. You hate it. You’re making loving sacrifices but you’re grumbling. Ha! How little you know of yourself if you think you don’t do things this way.
+        - Humans are the most refined animals.  We've gotten to type 2 and 3 of selfishness, whereas all other animals are stuck with the first type.  
+        - Because of the inherent self interested nature of all living things, fundamentally an evolutionary drive to survive, and thrive, while flawed, I believe capitalism is aligned with motivations of the natural world.  
+        - It is the most effective motivator of people and allocator of resources to raise people’s living standards
+        - It's in vogue to shit on capitalism today.  A lot of academics and intellectuals are made uncomfortable by money.  The argument is that ideas should win, and money is a corrupting influence over ideas.  
+        - It's concentration of power, not money, that fundamentally corrupts, and I would argue that crypto has the potential to democratize capital in the same way the internet democratized information.  It is an inherently more free, open, and fair system than the financial stack we have today.  
+        - Crypto can reform capitalism by realigning incentives and distribution of power.  
+        - Fundamentally, money is just a tool, it provides crystallized human effort / productivity.
+        - My first job was cleaning and organizing an autobody collision repair shop in Spokane.  I would spend the day hauling around scrap metal, sweeping the shop floor, moving cars, and cleaning the office and bathrooms.  Every week, all of that effort was crystalized and encapsulated in the form of a paycheck, which I could then take to the world and trade with other people to expend their own energy in a way that would benefit my life.  More often than not, these are things i could have never provided myself on my own.
+        - in the long run the truth wins.  systems that people use in their daily lives to make themselves and their families better off will be adopted, because it aligns with the inherent incentives of the natural world.  
+        - If you're someone that would prefer to live in a world without money or property, I'm probably not going to reach you here. 
+    - Money is the primary tool to build everything in modern civilization.  
+    - Clear title to land, knowing it wasn't going to be arbitrarily taken away from you by some lord or nation, was a major economic turning point for modern civilization.  When you own land, you have incentive and motivation to improve it.  You can also borrow against it, which made business possible, unlocked capital by borrowing.    
+    - Blockchains provides clear title to property rights in the digital world.  No corporation has control over your digital property, in the same way you have control over your phsyical property in the real world.
+    - Facebook, Instagram, Youtube, Twitter, any social media company, is fundamentally are rent seeking intermediaries.  They are the lords that run the feudal system that is the internet today.    
+    - Do you want to be digital serf toiling on the land of your corporate overlords, or do you want to own the land you work and play on?  
+    - Imagine for a moment, instagram as a protocol.  Actually owning your posts/content, getting the full benefit of any ad revenue generated by your content, being able to export your followers to any other platform, etc...  Imagine the algorithm serving you, instead of you serving the algorithm, and being able to adjust the dials on what content you are fed, at what interval and time.  Digital property rights allows for a better alignment of incentives between creators and their communities.  
+    - The web today is built on surveillance capitalism, but crypto offers an alternative.
+    - web3, reinventing internet services, in which they are owned and operated by communities instead of companies.
+    - Web stages
+        - 1990 to 2005, democratized information. go to google, anyone in world can type something and read about it
+        - web2 democratized publishing. one drawback, centralized companies. still net positive
+        - web3, democratizing ownership.  uniswap airdrop. default, at least half of tokens get air dropped to community for various behaviors.  fixes the cold start problem.  
+        - democratizing ownership of internet.  own aspect that makes it really politically relevant.  
+        - finally bake social structures and government natively into the internet.
+- Parallels with Web1
+    - Do you remember the internet in 1995?  That's where web3 is today in terms of user adoption.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fpeter-benjamin-spier%2F3bonhOu4IB.png?alt=media&token=8f7aa18a-f738-4455-8114-21fa298ddb1a)
+    - Eighteen million American homes were “online” in 1995 sense that they had America Online, Prodigy, or CompuServe, but only 3 percent had ever seen the free and open internet.  That number is relatively close to how many ethereum addresses there are today.  
+    - What crypto skeptics miss is that like the web in 1995, it is early days for crypto.
+    - The internet democratized information.  Anyone in the world could go to a search engine in 1995, there was no google, but you could use yahoo, excite, altavista, or lycos, type something into that bar, and read about it.  Dail up modems were slow, there were scams, you can't trust what you read on the internet, etc..
+    - Why read an article online when i get the newspaper every day.
+    - Crypto skeptics look at crypto through the lens of where it is today and compare it to the traditional financial system, but they aren't seeing the future potential of crypto.  Fundamental underlying technology is inherently more global, more efficient, more fair, and free.
+    - stages of tech adoption
+        - step 1 - ignore
+        - step 2 - refute
+        - step 3 - name calling, people get mad. critics realize in their gut that the new thing is really important and will reorder power and authority in some way. incumbents get upset, people fear change. tech wrapped up in political and social debates.  
+        - step 4 - then the tech wins everyone agrees it was always inevitable.  In the long run the truth wins. 
+    - SSL / encryption, which allows us to use credit cards online, view health records, bank, communicate privately, and basically any other verb we don't want blasted publicly to the world, was once highly controversial.
+    - Who wants to use encryption?  In the early 90s there was a battle in congress to ban it.  In 1995, a senator could claim that encryption online is mainly used by terrorists and criminals, and may have actually been right.  Obviously only criminals and terrorists have use for this privacy technology.  
+    - 128bit encryption, which isn't as strong as what we use today to shop on amazon, was classified under same munitions regulations as tomahawk missiles in the 90s.  It was illegal to ship/sell netscape navigator outside the US.  This was a time when software still came in boxes.  
+    - With any new technology, especially one that gives power to individuals, it takes time for the good use cases to emerge.  
+    - A lot of the same people that are worried about bad use cases of crypto are also worried about privacy online.  Is banking secure, health info secure, power grid remain secure.  on net, overwhelming, much rather live in a world with encryption.
+    - same concept applies to money.  criminals and terrorists use money all day long, but positive use cases for money strongly oughtweigh bad ones.
+    - Looking at all the parallels between the web1 and web3, the rate of adoption, the critics, i'm frankly blown away so many people are missing it.
+    - E-commerce 25 years ago was a sideshow most poked fun at it, today it's kind of the main thing.  
+- American Decline
+    - 
+    - Shining city on the hill, american exceptionalism.  
+    - 
+- Sources:
+    - https://shows.banklesshq.com/p/120-reinventing-the-internet-marc#details
+    - https://tim.blog/2022/10/07/brian-armstrong/
+    - https://www.principles.com/the-changing-world-order/
+    - 
